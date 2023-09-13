@@ -1,7 +1,7 @@
 # Basic-AEM-Fuzzing-List
-Basic-AEM-Fuzzing-List
+# Basic-AEM-Fuzzing-List
 
-Awesome tip! Don't forget to spray these on your hosts as well for AEM discovery!  🔥🔥🔥🔥
+# Awesome tip! Don't forget to spray these on your hosts as well for AEM discovery!  🔥🔥🔥🔥
 
 /system/console
 
